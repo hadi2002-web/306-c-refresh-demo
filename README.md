@@ -9,23 +9,23 @@
 ## HTML CSS JS
 
 ### HTML
--  document structure as is done in vanilla html
-- identify where to anticipate changes
-- semantic syntax
+- x document structure as is done in vanilla html
+- x? identify where to anticipate changes
+- x semantic syntax
 
 ### CSS
-- short review of k/v selector syntax
-- discuss visual design practices to consider (review other sites)
+- x short review of k/v selector syntax
+- ~ discuss visual design practices to consider (review other sites)
 
 ### JS
 
 - loops and iterative logic
-- variable scope decclaration
-- functions (traditional vs fat arrow)
+- variable scope declaration
+- ~ functions (traditional vs fat arrow)
 - conditional logic & ternary operators
-- data types
+- x data types
 
-### GIT
+### X GIT
 
 - workflow steps
 - deployment of code
