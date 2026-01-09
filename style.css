@@ -3,5 +3,5 @@ h1 {
 }
 
 .heading {
-  font-size: clamp(2.5rem, 10vw, 3rem);
+  font-size: clamp(1.4rem, 10vw, 3rem);
 }
